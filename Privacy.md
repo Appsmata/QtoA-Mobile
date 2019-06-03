@@ -38,6 +38,7 @@ Q2Andy uses the collected data for various purposes:
 - To provide analysis or valuable information so that we can improve the Service
 - To monitor the usage of the Service
 - To detect, prevent and address technical issues
+- To show you adverts relevant to you based on your location and info
 
 ### Transfer Of Data
 Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
@@ -78,6 +79,6 @@ We will let you know via email and/or a prominent notice on our Service, prior t
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 
-##Contact Us
+## Contact Us
 If you have any questions about this Privacy Policy, please contact us:
 #### By email: jaksiro@gmail.com
