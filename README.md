@@ -20,6 +20,7 @@ Q2Andy is a new Android Client for your Question2Answer site!
 
 ### Get the source code
 Once am done with everything I will be selling it at **$ 35** on **Codester.**
+
 If you want to buy it now outside _Codester_ I give you at **$ 20**
 
 ### Get in touch
