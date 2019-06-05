@@ -1,6 +1,6 @@
 ## Introducing Q2Andy!
 
-Q2Andy is a new Android Client for your Question2Answer site!
+Q2Andy is a new Android Client for your Question2Answer site which uses a simple custom qa-api 
 
 <img src="q2a1.png"/>
 
@@ -22,6 +22,10 @@ Q2Andy is a new Android Client for your Question2Answer site!
 Once am done with everything I will be selling it at **$ 35** on **Codester.**
 
 If you want to buy it now outside _Codester_ I give you at **$ 20**
+
+You will get:
+- Android Studio full source code
+- Qa-Api full source code
 
 ### Get in touch
 jaksiro[at]gmail.com
