@@ -1,6 +1,6 @@
 ## Introducing Q2Andy!
 
-Q2Andy is a new Android Client for your Question2Answer site which uses a simple custom qa-api 
+Q2Andy is a new Android Client for your Question2Answer site which uses a simple custom qa-api to give the same functionality of the web on the app!
 
 <img src="q2a1.png"/>
 
@@ -29,3 +29,6 @@ You will get:
 
 ### Get in touch
 jaksiro[at]gmail.com
+
+
+We are just getting started
