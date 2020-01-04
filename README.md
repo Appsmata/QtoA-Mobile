@@ -20,8 +20,8 @@ Q2Andy is a new Android Client for your Question2Answer site which uses a simple
 
 ### Get the source code
 The source code is free here on github both:
-- Android Studio full source code
-- Qa-Api full source code
+- Android Studio full source code: [Github Repo](https://github.com/Q2Andy/qa-android)
+- Qa-Api full source code [Github Repo](https://github.com/Q2Andy/qa-api)
 
 ### Get in touch
 appsmatake[at]gmail.com
