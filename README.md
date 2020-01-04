@@ -19,16 +19,12 @@ Q2Andy is a new Android Client for your Question2Answer site which uses a simple
 - [Get it on PlayStore](https://play.google.com/store/apps/details?id=com.appsmata.qtoa)
 
 ### Get the source code
-Once am done with everything I will be selling it at **$ 35** on **Codester.**
-
-If you want to buy it now outside _Codester_ I give you at **$ 20**
-
-You will get:
+The source code is free here on github both:
 - Android Studio full source code
 - Qa-Api full source code
 
 ### Get in touch
-jaksiro[at]gmail.com
+appsmatake[at]gmail.com
 
 
-We are just getting started
+We are just getting started!
