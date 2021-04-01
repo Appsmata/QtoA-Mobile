@@ -15,7 +15,7 @@ Q2Andy is a new Android Client for your Question2Answer site which uses a simple
 <img src="q2a2.png"/>
 
 ### Demo Links
-- [Q2Andy Online](https://qtoa.appsmata.com/)
+- [Q2Andy Online](https://askdev.appsmata.com/)
 - [Get it on PlayStore](https://play.google.com/store/apps/details?id=com.appsmata.qtoa)
 
 ### Get the source code
