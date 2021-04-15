@@ -1,6 +1,6 @@
-## Introducing Q2Andy!
+## Introducing QtoA-Mobile!
 
-Q2Andy is a new Android Client for your Question2Answer site which uses a simple custom qa-api to give the same functionality of the web on the app!
+QtoA-Mobile is a new Android Client for your Question2Answer site which uses a simple custom qa-api to give the same functionality of the web on the app!
 
 <img src="q2a1.png"/>
 
@@ -10,7 +10,7 @@ Q2Andy is a new Android Client for your Question2Answer site which uses a simple
 3. Accessing Questions/unanswered
 4. Asking/Answering questions
 5. Blocked users can not access the site from the app.
-6. Build using Android Studio (java)
+6. Build using Android Studio / Visual Studio Code / xCode
 
 <img src="q2a2.png"/>
 
@@ -19,12 +19,12 @@ Q2Andy is a new Android Client for your Question2Answer site which uses a simple
 - [Get it on PlayStore](https://play.google.com/store/apps/details?id=com.appsmata.qtoa)
 
 ### Get the source code
-The source code is free here on github both:
+The source code is premium and you can buy it on codester 
 - Flutter full source code (Dart)
 - Qa-Api full source code (PHP)
 
 ### Get in touch
-appsmatake[at]gmail.com
+jacksiroke[at]gmail.com
 
 
 We are just getting started!
