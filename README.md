@@ -19,12 +19,9 @@ QtoA-Mobile is a new Android Client for your Question2Answer site which uses a s
 - [Get it on PlayStore](https://play.google.com/store/apps/details?id=com.appsmata.qtoa)
 
 ### Get the source code
-The source code is premium and you can buy it on codester 
+The source code is premium and you can buy it from me to get access to the code and instructions to build this
 - Flutter full source code (Dart)
 - Qa-Api full source code (PHP)
 
-### Get in touch
-jacksiroke[at]gmail.com
-
-
-We are just getting started!
+**Pay me $ 95 on PayPal via the address:** jacksiroke[at]gmail.com
+Once you've paid email me jacksiroke[at]gmail.com with your GitHub username/email to get the access to the code
