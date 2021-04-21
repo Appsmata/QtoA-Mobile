@@ -23,6 +23,6 @@ The source code is premium and you can buy it from me to get access to the code 
 - Flutter full source code (Dart)
 - Qa-Api full source code (PHP)
 
-1. **Pay me $ 95 on PayPal via the address:** jacksiroke[at]gmail.com
+1. **Pay me $ 50 on PayPal via the address:** jacksiroke[at]gmail.com
 2. **Email me on jacksiroke[at]gmail.com** with your information on your GitHub username/email
 3. Get the access to the code
